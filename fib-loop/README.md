@@ -1,5 +1,3 @@
-# fib-loop
-
 ## Task
 
 Write a program that asks the user how many Fibonacci numbers to generate and then generates them. Make sure to ask the user to enter the 
