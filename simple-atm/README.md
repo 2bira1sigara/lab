@@ -30,7 +30,7 @@ Success! New balance: $1500
 
 ### Hint
 
-#### CValidate withdrawals with:
+#### Validate withdrawals with:
 ```python
 if amount <= balance and amount > 0:
     balance -= amount
